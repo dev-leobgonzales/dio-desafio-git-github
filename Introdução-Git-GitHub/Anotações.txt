@@ -1,0 +1,8 @@
+Link para download do git - https://git-scm.com/downloads
+- GiT Bash é um terminal extendido, para otimizar o uso do git.
+
+
+Link para download Atom - https://atom.io
+
+
+Link para download VsCode - https://code.visualstudio.com
